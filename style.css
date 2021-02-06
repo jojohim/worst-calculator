@@ -1,5 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
 #interface {
-  background-color: lightgray;
+  background-color: skyblue;
   border-radius: .4em;
   width: 300px;
   font-family: 'Courier New', Courier, monospace;
@@ -21,8 +27,8 @@
 
 #clear {
   font-family: Arial, Helvetica, sans-serif;
-  font-size: 10px;
-  color: cornflowerblue;
+  font-size: 12px;
+  color: darkblue;
 }
 
 #clear:hover {

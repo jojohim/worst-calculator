@@ -11,9 +11,6 @@ function clearResults () {
     document.getElementById('final-result').innerHTML= "0";
     document.getElementById('decimals').value ="0";
     document.getElementById('doround').checked = false;
-
-
- console.log("result was cleared");
 }
 
 function calculate() {
